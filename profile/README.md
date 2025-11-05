@@ -22,12 +22,6 @@ SecurePassPro delivers advanced encryption, quantum-resistant key management, an
 
 > _“Protecting the passwords that power your world.”_
 
----
-
-### ⚙️ Tech Stack
-- Node.js • TypeScript • Next.js • PostgreSQL  
-- AWS / Vercel • Redis • Prisma • Tailwind CSS  
-- SOC2 + Quantum-Resistant Encryption
 
 ---
 
@@ -37,6 +31,6 @@ SecurePassPro delivers advanced encryption, quantum-resistant key management, an
 ---
 
 ### 🏢 Legal
-© 2025 SecurePassPro Technologies Inc.  
+© 2025 SecurePassPro Inc.  
 All rights reserved.  
 For licensing inquiries, contact: [legal@securepasspro.co](mailto:legal@securepasspro.co)
